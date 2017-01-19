@@ -17,15 +17,15 @@
             [
                 {
                     "name": "x",
-                    "type": "f32"
+                    "type": "lf32"
                 },
                 {
                     "name": "y",
-                    "type": "f32"
+                    "type": "lf32"
                 },
                 {
                     "name": "z",
-                    "type": "f32"
+                    "type": "lf32"
                 }
             ]
         ],
